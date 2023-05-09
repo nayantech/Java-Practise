@@ -1,6 +1,10 @@
 package program;
 import java.util.*;
+
+//Write a program in java to find year is leap year or not take input form user?
 public class Leapyear {
+
+	
 
 	public static void main(String[] args) {
 		int num;

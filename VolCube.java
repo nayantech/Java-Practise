@@ -1,5 +1,7 @@
 package program;
 import java.util.*;
+
+//write a program in java to calculate Volume of Cube take input from user?
 class Cone
 {
 	int r,h;
